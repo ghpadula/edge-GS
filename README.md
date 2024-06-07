@@ -8,12 +8,13 @@ Como os simuladores não possuem alguns dos sensores necessários, utilizamos po
 
 ## Funcionalidades
 
-- Medição da temperatura da água usando um sensor DS18B20.
-- Medição do pH da água.
-- Medição da salinidade da água.
-- Medição do oxigênio dissolvido na água.
-- Exibição dos dados em um display LCD I2C.
-- Envio dos dados para o monitor serial para visualização e registro.
+- Medição da temperatura da água usando um sensor DS18B20
+- Medição do pH da água
+- Medição da salinidade da água
+- Medição do oxigênio dissolvido na água
+- Exibição dos dados em um display LCD I2C
+- -Quando os dados estão acima ou abaixo do esperado o led vermelho ira ligar
+- Envio dos dados para o monitor serial para visualização e registro
 
 ## Instruções de Uso
 

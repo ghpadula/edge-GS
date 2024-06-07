@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é um protótipo de monitoramento de água utilizando um microcontrolador Arduino. O sistema coleta informações como pH, salinidade, oxigênio e temperatura da água, exibindo-os em um LCD 20x4. Os dados também são enviados para a porta serial para visualização e registro.
+Este projeto é um protótipo de monitoramento de água utilizando um microcontrolador Arduino. O sistema coleta informações como pH, salinidade, oxigênio e temperatura da água, exibindo-os em um LCD 20x4,quando os dados são irregulares o led vermelho é ligado e quando esta tudo normal o verde fica ligado. Os dados também são enviados para a porta serial para visualização e registro.
 
 Como os simuladores não possuem alguns dos sensores necessários, utilizamos potenciômetros para simular os valores.
 
